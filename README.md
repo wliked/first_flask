@@ -1,2 +1,2 @@
-# first_flask
-learn flask
+# flask_launch
+template for manage flask project files 
